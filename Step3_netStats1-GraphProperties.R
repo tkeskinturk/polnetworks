@@ -1,13 +1,13 @@
 
 # ----------------- The Organization of Political Belief Networks: A Cross-Country Analysis ------------------- #
-# ------------------------------ Turgut Keskintürk - Bogaziçi University - 2021 ------------------------------- #
+# ------------------------------ Turgut KeskintÃ¼rk - BogaziÃ§i University - 2021 ------------------------------- #
 
 # ------------------------------------------------------------------------------------------------------------- #
 
 ### section 3: graph-level network properties ###
-# part 1 and part 2 analyzes observed belief networks
-# part 3 and part 4 uses row bootstraps to confirm the belief constraint trends
-# part 5 and part 6 uses column bootstraps for item selection tests
+# part 1 and part 2 analyze observed belief networks
+# part 3 and part 4 use row bootstraps to confirm the belief constraint trends
+# part 5 and part 6 use column bootstraps for item selection tests
 
 # ------------------------------------------------------ PART 01 ---------------------------------------------- #
 
