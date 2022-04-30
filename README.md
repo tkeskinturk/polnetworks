@@ -1,6 +1,6 @@
 # Replication: The Organization of Political Belief Networks
 
-This repository provides the replication files for the paper *The Organization of Political Belief Networks: A Cross-Country Analysis*, published in [*Social Science Research*](https://www.sciencedirect.com/science/article/abs/pii/S0049089X22000485).
+This repository provides the replication files for the paper *The Organization of Political Belief Networks: A Cross-Country Analysis*, published at [*Social Science Research*](https://www.sciencedirect.com/science/article/abs/pii/S0049089X22000485) journal.
 
 The paper uses the joint dataset of World Values Survey and European Values Study, which covers the periods of 2017 and 2020. The datafiles and the corresponding codebooks and questionnaires can be found [here](https://www.worldvaluessurvey.org/WVSEVSjoint2017.jsp).
 
