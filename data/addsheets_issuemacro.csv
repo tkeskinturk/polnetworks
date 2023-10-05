@@ -1,0 +1,33 @@
+var,desc,type
+A124_02,Neighbours: People of a Different Race,Symbolic
+A124_06,Neighbours: Immigrants/Foreign Workers,Symbolic
+B008,Protecting Environment vs Economic Growth,Operational
+C001,Jobs: Men over Women,Operational
+C002,Jobs: Nation over Immigrants,Operational
+D059,Men Are Better Political Leaders than Women,Symbolic
+D060,University More Important for Boys than Girls,Symbolic
+D061,The Children Suffer with Working Mother,Symbolic
+D078,Men Are Better Business Execs than Women,Symbolic
+E033,Self Positioning in Political Scale,Symbolic
+E035,Income Should Be Equal,Operational
+E036,Private vs State Ownership of Business,Operational
+E037,Government's Responsibilities,Operational
+E039,Competition Good or Harmful,Operational
+E114,Political System: Strong Leadership,Symbolic
+E115,Political System: Experts,Symbolic
+E117,Political System: Democratic Politics,Symbolic
+E224,Governments Tax The Rich And Subsidize The Poor,Operational
+E225,Religious Authorities Interpret The Laws,Symbolic
+E226,People Choose Their Leaders In Free Elections,Symbolic
+E227,People Receive State Aid For Unemployment,Operational
+E229,Civil Rights Protect People’s Liberty Against Oppression,Operational
+E233,Women Have The Same Rights As Men,Operational
+E233A,The State Makes People's Incomes Equal,Operational
+E233B,People Obey Their Rulers,Symbolic
+E235,Importance of Democracy,Symbolic
+F120,Ethical Values and Norms: Abortion,Operational
+F144_02,Ethical Values and Norms: Death Penalty,Operational
+G052,Evaluate the Impact of Immigrants Over Country,Operational
+G007_35_B,Trust: People of Another Religion,Symbolic
+G007_36_B,Trust: People of Another Nationality,Symbolic
+conf,Confidence in Political Institutions (E069_01-E069_20),Symbolic
